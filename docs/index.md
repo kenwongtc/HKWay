@@ -1,8 +1,16 @@
 ---
-title: HK Way Privacy Policy
+title: HK Way Support and Privacy
 ---
 
-# HK Way Privacy Policy
+# HK Way Support and Privacy
+
+## Support
+
+Need help with HK Way, found a problem, or have a feature request? Please [open a support request on GitHub](https://github.com/kenwongtc/HKWay/issues). Include your device model, iOS version, and a screenshot where possible.
+
+For privacy questions, use the same support link. Chinese privacy-policy details are provided below.
+
+---
 
 **Last updated: 8 September 2026**
 
@@ -40,7 +48,7 @@ This policy may be updated when HK Way’s features or legal requirements change
 
 ## Contact
 
-For privacy questions, open an issue in the [HK Way GitHub repository](https://github.com/kenwongtc/TransitGo-HK-App/issues).
+For privacy questions, open an issue in the [HK Way GitHub repository](https://github.com/kenwongtc/HKWay/issues).
 
 ---
 
@@ -82,4 +90,4 @@ For privacy questions, open an issue in the [HK Way GitHub repository](https://g
 
 ## 聯絡方法
 
-如有私隱問題，請在 [HK Way GitHub 儲存庫](https://github.com/kenwongtc/TransitGo-HK-App/issues)建立 issue。
+如有私隱問題，請在 [HK Way GitHub 儲存庫](https://github.com/kenwongtc/HKWay/issues)建立 issue。
